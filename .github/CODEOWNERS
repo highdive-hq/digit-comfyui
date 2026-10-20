@@ -1,0 +1,5 @@
+# Default: any pipeline team member can review.
+*            @highdive-hq/pipeline
+
+# CI, workflows and repo rules: Randy signs off.
+/.github/    @thedepartmentofexternalservices @vturchin
